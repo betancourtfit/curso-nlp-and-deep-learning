@@ -1,3 +1,9 @@
 # Entornos virtuales
 .venv/
 nlp_deeplearning_env/
+tf_env_311/
+.venv310/
+Entrega Final/train.csv
+Entrega Final/test.csv
+
+## indicame el comando para revertir el git commit
